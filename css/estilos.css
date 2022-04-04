@@ -1,5 +1,16 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: crimson;
+    color: rgb(29, 17, 19);
+    font-size: 16px;
+}
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(85, 17, 17);
+    margin: auto;
+}
+.container h1{
+    font-size: 20px;
 }
